@@ -5,9 +5,9 @@ function wrong(){
 	 	 document.getElementById("Answer").value="Sadly false";
   	}
 
-function correct(){
+function hello(){
 	 	 document.getElementById("Answ").value="Great job, that's right";
   	}
-function fals(){
+function bye(){
 	 	 document.getElementById("Answ").value="Sadly false";
   	}
