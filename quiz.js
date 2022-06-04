@@ -8,6 +8,6 @@ function wrong(){
 function correct(){
 	 	 document.getElementById("Answ").value="Great job, that's right";
   	}
-function false(){
+function fals(){
 	 	 document.getElementById("Answ").value="Sadly false";
   	}
