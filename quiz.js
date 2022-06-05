@@ -28,10 +28,10 @@ function falsc(){
 	 	 document.getElementById("An").value="Sorry, but that's wrong";
   	}
 
-function richt(){
-	 	 document.getElementById("A").value="Great job, that's right";}
-function fals(){
-	 	 document.getElementById("A").value="Sorry, but that's wrong";
+function itzy(){
+	 	 document.getElementById("Antwort").value="Great job, that's right";}
+function itzyn(){
+	 	 document.getElementById("Antwort").value="Sorry, but that's wrong";
   	}
 
 function rich(){
