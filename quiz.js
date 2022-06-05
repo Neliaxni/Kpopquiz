@@ -26,16 +26,16 @@ function falschh(){
 	 	 document.getElementById("Anss").value="Sorry, but that's wrong";
   	}
 
-function richtig(){
-	 	 document.getElementById("Ans").value="Great job, that's right";
+function richti(){
+	 	 document.getElementById("An").value="Great job, that's right";
   	}
-function falsch(){
-	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
+function falsc(){
+	 	 document.getElementById("An").value="Sorry, but that's wrong";
   	}
 
-function richtig(){
-	 	 document.getElementById("Ans").value="Great job, that's right";
+function richt(){
+	 	 document.getElementById("A").value="Great job, that's right";
   	}
-function falsch(){
-	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
+function fals(){
+	 	 document.getElementById("A").value="Sorry, but that's wrong";
   	}
