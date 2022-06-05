@@ -18,3 +18,24 @@ function richtig(){
 function falsch(){
 	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
   	}
+
+function richtigg(){
+	 	 document.getElementById("Anss").value="Great job, that's right";
+  	}
+function falschh(){
+	 	 document.getElementById("Anss").value="Sorry, but that's wrong";
+  	}
+
+function richtig(){
+	 	 document.getElementById("Ans").value="Great job, that's right";
+  	}
+function falsch(){
+	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
+  	}
+
+function richtig(){
+	 	 document.getElementById("Ans").value="Great job, that's right";
+  	}
+function falsch(){
+	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
+  	}
