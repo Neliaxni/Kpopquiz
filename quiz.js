@@ -1,41 +1,41 @@
-function right(){
+function a(){
 	 	 document.getElementById("Answer").value="Great job, that's right";}
-function wrong(){
+function aa(){
 	 	 document.getElementById("Answer").value="Sorry, but that's wrong ";
   	}
 
-function hello(){
+function b(){
 	 	 document.getElementById("Answ").value="Great job, that's right";}
-function bye(){
+function bb(){
 	 	 document.getElementById("Answ").value="Sorry, but that's wrong";
   	}
 
-function richtig(){
+function c(){
 	 	 document.getElementById("Ans").value="Great job, that's right";}
-function falsch(){
+function cc(){
 	 	 document.getElementById("Ans").value="Sorry, but that's wrong";
   	}
 
-function richtigg(){
+function d(){
 	 	 document.getElementById("Anss").value="Great job, that's right";}
-function falschh(){
+function dd(){
 	 	 document.getElementById("Anss").value="Sorry, but that's wrong";
   	}
 
-function richti(){
+function e(){
 	 	 document.getElementById("An").value="Great job, that's right";}
-function falsc(){
+function ee(){
 	 	 document.getElementById("An").value="Sorry, but that's wrong";
   	}
 
-function itzy(){
+function f(){
 	 	 document.getElementById("Antwort").value="Great job, that's right";}
-function itzyn(){
+function ff(){
 	 	 document.getElementById("Antwort").value="Sorry, but that's wrong";
   	}
 
-function rich(){
+function g(){
 	 	 document.getElementById("Aa").value="Great job, that's right";}
-function fal(){
+function gg(){
 	 	 document.getElementById("Aa").value="Sorry, but that's wrong";
   	}
